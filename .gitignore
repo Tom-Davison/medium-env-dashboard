@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+data/cache/
+data/processed/
+*.tif
+*.jp2
+temp/
+.venv/
+venv/
